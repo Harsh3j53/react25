@@ -1,2 +1,0 @@
-# react25
-revision
